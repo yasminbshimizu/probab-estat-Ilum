@@ -1,5 +1,5 @@
 # probab-estat-Ilum
-Cadernos Jupyter desenvolvidos ao longo da disciplina de Probabilidade e Estatística no segundo período de Ciência e Tecnologia na Ilum, ministrada pelo Prof. Dr. Daniel Roberto Cassar.
+ Códigos desenvolvidos ao longo da disciplina de Probabilidade e Estatística ministrada pelo Prof. Dr. Daniel Cassar, no segundo período de Ciência e Tecnologia na Ilum.
 
 <img aling="center" width=900 src="./logos ilum cnpem mcti mec.png">
 
